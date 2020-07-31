@@ -1,5 +1,5 @@
-# Tailwind Starter Kit
-This is a repository that holds some common plugins, workflows and file structure that is useful for starting a Tailwind project. It uses Gulp as the toolkit to automate the workflow.
+# BEM Starter Kit
+This is a repository that holds some common plugins, workflows and file structure that is useful for starting a project using BEM CSS. It uses Gulp as the toolkit to automate the workflow. Learn about BEM [here](http://getbem.com/).
 
 ## General workflow
 All source files are placed in [/src](/src). When you run `gulp develop` these files are processed and placed into [/dev](/dev). The files in [/dev](/dev) can be read by your browser.
